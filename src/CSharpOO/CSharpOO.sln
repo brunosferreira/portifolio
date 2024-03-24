@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpOO.Conceitos", "CSharpOO.Conceitos\CSharpOO.Conceitos.csproj", "{8328605C-2D2C-4D00-B029-E4B837BBDBDE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01Conceito", "_01Conceito\_01Conceito.csproj", "{8328605C-2D2C-4D00-B029-E4B837BBDBDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02Heranca", "_02Heranca\_02Heranca.csproj", "{CF0E689E-0DC5-446E-9F22-12099AE881EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03Polimorfismo", "_03Polimorfismo\_03Polimorfismo.csproj", "{6F0085EC-9C90-4A08-8F64-E29FC75C6AE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{8328605C-2D2C-4D00-B029-E4B837BBDBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8328605C-2D2C-4D00-B029-E4B837BBDBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8328605C-2D2C-4D00-B029-E4B837BBDBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0E689E-0DC5-446E-9F22-12099AE881EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0E689E-0DC5-446E-9F22-12099AE881EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0E689E-0DC5-446E-9F22-12099AE881EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0E689E-0DC5-446E-9F22-12099AE881EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0085EC-9C90-4A08-8F64-E29FC75C6AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0085EC-9C90-4A08-8F64-E29FC75C6AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0085EC-9C90-4A08-8F64-E29FC75C6AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0085EC-9C90-4A08-8F64-E29FC75C6AE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
