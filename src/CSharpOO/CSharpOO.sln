@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02Heranca", "_02Heranca\_0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03Polimorfismo", "_03Polimorfismo\_03Polimorfismo.csproj", "{6F0085EC-9C90-4A08-8F64-E29FC75C6AE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04Abstracao", "_04Abstracao\_04Abstracao.csproj", "{59586BDB-7D35-443C-8E13-F03C7589831E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05Encapsulamento", "_05Encapsulamento\_05Encapsulamento.csproj", "{9B57264D-5E52-4EA2-B714-419497025F40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{6F0085EC-9C90-4A08-8F64-E29FC75C6AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F0085EC-9C90-4A08-8F64-E29FC75C6AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F0085EC-9C90-4A08-8F64-E29FC75C6AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59586BDB-7D35-443C-8E13-F03C7589831E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59586BDB-7D35-443C-8E13-F03C7589831E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59586BDB-7D35-443C-8E13-F03C7589831E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59586BDB-7D35-443C-8E13-F03C7589831E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B57264D-5E52-4EA2-B714-419497025F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B57264D-5E52-4EA2-B714-419497025F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B57264D-5E52-4EA2-B714-419497025F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B57264D-5E52-4EA2-B714-419497025F40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

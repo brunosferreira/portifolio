@@ -16,5 +16,5 @@ moto.Valor = 120500;
 moto.AnoFabricacao = 2024;
 moto.AnoModelo = 2024;
 
-Console.WriteLine($"carro {carro.Marca} {carro.Modelo} {carro.AnoFabricacao}/{carro.AnoModelo} por {carro.Valor} ou {carro.ValorParaFrotista} para frotistas.");
-Console.WriteLine($"moto {moto.Marca} {moto.Modelo} {moto.AnoFabricacao}/{moto.AnoModelo} por {moto.Valor} ou {moto.ValorParaFrotista} para frotistas.");
+Console.WriteLine($"carro {carro.Marca} {carro.Modelo} {carro.AnoFabricacao}/{carro.AnoModelo} por {carro.Valor} ou {carro.ObterValorParaFrotista()} para frotistas.");
+Console.WriteLine($"moto {moto.Marca} {moto.Modelo} {moto.AnoFabricacao}/{moto.AnoModelo} por {moto.Valor} ou {moto.ObterValorParaFrotista()} para frotistas.");

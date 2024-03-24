@@ -1,4 +1,4 @@
-﻿namespace _03Polimorfismo;
+﻿namespace _04Abstracao;
 
 public abstract class Veiculo
 {
@@ -8,6 +8,7 @@ public abstract class Veiculo
     public int AnoFabricacao { get; set; } 
     public double Valor { get; set; }
     public int QuantidadeDePassageiros { get; set; }
+    public double ValorParaFrotista => ObterValorParaFrotista();
 
-    public abstract double ObterValorParaFrotista();
+    protected abstract double ObterValorParaFrotista();
 }
