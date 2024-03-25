@@ -1,6 +1,6 @@
 ﻿namespace _05Encapsulamento;
 
-public class Moto : Veiculo
+public sealed class Moto : Veiculo
 {
     public Moto(string marca, string modelo, int anoModelo, int anoFabricacao, double valor, int quantidadeDePassageiros) :
         base(marca, modelo, anoModelo, anoFabricacao, valor, quantidadeDePassageiros) { }
