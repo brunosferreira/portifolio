@@ -22,7 +22,7 @@ public abstract class Veiculo
 
     public override string ToString()
     {
-        return $"{GetType().Name} {Marca} {Modelo} {AnoModelo}/{AnoFabricacao} por {Valor} ou {ValorParaFrotista} para frotistas.";
+        return $"{GetType().Name} {Marca} {Modelo} {AnoModelo}/{AnoFabricacao} por {Valor} ou {ValorParaFrotista} para frotistas";
     }
 
     protected abstract double ObterValorParaFrotista();
