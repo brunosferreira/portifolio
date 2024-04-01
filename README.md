@@ -1,6 +1,6 @@
 # Meu Portifólio
 Meu portifólio particular, com práticas, exemplos de código de aprendizados na área do desenvolvimento backend com .Net C#, utilizando:
-- Orientação à Objetos
+- Programação Orientada à Objetos
 - DDD
 - TDD
 - Design Patterns
